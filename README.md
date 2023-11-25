@@ -1,6 +1,8 @@
 # Para-Ref
 The official repository of "Not All Metrics Are Guilty: Improving NLG Evaluation with LLM Paraphrasing".
 
+**The references and paraphrased references can be found in `dataset/XXX/xxxx.reference` and `dataset/XXX/xxxx.reference.paraphrased`.**
+
 ## Requirements
 ```bash
 git clone https://github.com/google-research/mt-metrics-eval.git
