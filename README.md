@@ -1,7 +1,7 @@
-# Para-Ref
-The official repository of "Not All Metrics Are Guilty: Improving NLG Evaluation with LLM Paraphrasing".
+# Div-Ref
+The official repository of "Not All Metrics Are Guilty: Improving NLG benchmarks by Diversifying References".
 
-**The references and paraphrased references can be found in `dataset/XXX/xxxx.reference` and `dataset/XXX/xxxx.reference.paraphrased`.**
+**The references and diversified references can be found in `dataset/XXX/xxxx.reference` and `dataset/XXX/xxxx.reference.diversified`.**
 
 ## Requirements
 ```bash
